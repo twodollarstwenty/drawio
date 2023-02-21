@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:12:14.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aUjUgdVw4FgeUnyX8bKr" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:16:58.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jXu2BT6RKPHS9MSkQ_8I" version="20.8.18" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="1358" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;shape=link;" edge="1" parent="1" source="CseuSFjhn_5iYGJGKoM_-1" target="CseuSFjhn_5iYGJGKoM_-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-1" value="" style="image;html=1;image=img/lib/clip_art/computers/Monitor_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="CseuSFjhn_5iYGJGKoM_-2" target="CseuSFjhn_5iYGJGKoM_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="CseuSFjhn_5iYGJGKoM_-2" target="CseuSFjhn_5iYGJGKoM_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-2" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-3" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-4" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
