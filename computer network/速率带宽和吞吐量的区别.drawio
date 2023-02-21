@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:20:30.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="9Cxyu2MBwLY4BBvPnkmm" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:23:42.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7T8aR3OZbA5JWZFNPsYz" version="20.8.18" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
-    <mxGraphModel dx="1358" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="776" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,6 +39,15 @@
             <mxPoint x="190" y="370" as="sourcePoint" />
             <mxPoint x="400" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-14" value="链路带宽100Mb/s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontColor=#7EA6E0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="330" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-15" value="速率20Mb/s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="230" y="350" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-16" value="速率10Mb/s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="230" y="380" width="130" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
