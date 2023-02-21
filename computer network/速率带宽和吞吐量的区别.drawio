@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T09:23:42.900Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7T8aR3OZbA5JWZFNPsYz" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T09:27:47.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="91I_qi7raF5QapbhtHtA" version="20.8.18" type="github">
   <diagram name="Page-1" id="55a83fd1-7818-8e21-69c5-c3457e3827bb">
     <mxGraphModel dx="776" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="CseuSFjhn_5iYGJGKoM_-16" value="速率10Mb/s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="230" y="380" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="CseuSFjhn_5iYGJGKoM_-17" value="&lt;br&gt;吞&lt;br&gt;吐&lt;br&gt;量&lt;br&gt;100&lt;br&gt;Mb/s" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=14;fontColor=#EA6B66;labelPosition=center;verticalLabelPosition=middle;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="240" width="20" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
